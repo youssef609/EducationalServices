@@ -11,7 +11,7 @@ namespace WebApplication1
     public class NLPService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiKey = "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"; // Replace with your Hugging Face API Key
+        private readonly string _apiKey = ""; // 
         private readonly string _embeddingEndpoint = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"; // Adjusted for Text Embeddings API
 
         public NLPService(HttpClient httpClient)
