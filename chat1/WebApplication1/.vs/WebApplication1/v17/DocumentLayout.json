@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source-repos\\chat1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|d:\\source-repos\\chat1\\webapplication1\\webapplication1\\nlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\nlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|d:\\source-repos\\chat1\\webapplication1\\webapplication1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|d:\\source-repos\\chat1\\webapplication1\\webapplication1\\models\\keywordextractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FB4A60-50DD-4DC3-93D5-401D621960A5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\keywordextractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLPService.cs",
+              "DocumentMoniker": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\NLPService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\NLPService.cs",
+              "ToolTip": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\NLPService.cs",
+              "RelativeToolTip": "WebApplication1\\NLPService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:09:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:32:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeywordExtractionService.cs",
+              "DocumentMoniker": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\Models\\KeywordExtractionService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\KeywordExtractionService.cs",
+              "ToolTip": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\Models\\KeywordExtractionService.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\KeywordExtractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:39:48.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

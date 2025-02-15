@@ -1,0 +1,68 @@
+﻿@model WebApplication1.viewmodels.SummaryAndKeywordsViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Upload and Process Document</h2>
+
+    <!-- Upload Form -->
+    <form method="post" enctype="multipart/form-data" asp-action="SummarizeAndExtractKeywords">
+        <div class="mb-3">
+            <label for="documentFile" class="form-label">Upload Document</label>
+            <input type="file" class="form-control" id="documentFile" name="documentFile" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Process Document</button>
+    </form>
+
+    <!-- Display Results -->
+    @if (Model != null)
+    {
+        <div class="mt-4">
+            <h3>Document Analysis Results</h3>
+
+            <!-- Original Text -->
+            <div class="card mt-3">
+                <div class="card-body">
+                    <h5 class="card-title">Original Text</h5>
+                    <p>@Model.OriginalText</p>
+                </div>
+            </div>
+
+            <!-- Summary -->
+            <div class="card mt-3">
+                <div class="card-body">
+                    <h5 class="card-title">Summary</h5>
+                    <p>@Model.Summary</p>
+                </div>
+            </div>
+
+            <!-- Keywords -->
+            <div class="card mt-3">
+                <div class="card-body">
+                    <h5 class="card-title">Keywords</h5>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Keyword</th>
+                                <th>Frequency</th>
+                                <th>Relevance</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var keyword in Model.Keywords)
+                            {
+                                <tr>
+                                    <td>@keyword.Word</td>
+                                    <td>@keyword.Frequency</td>
+                                    <td>@keyword.RelevanceScore</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+    

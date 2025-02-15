@@ -1,0 +1,41 @@
+﻿/* Custom Styles */
+body {
+    background: url('/images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+h2, h3 {
+    color: #f9f9f9;
+}
+
+button {
+    border-radius: 20px;
+    transition: 0.3s ease;
+}
+
+    button:hover {
+        background-color: #007bff;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0, 123, 255, 0.4);
+    }
+
+.card {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);
+    margin-top: 20px;
+}
+
+.table {
+    color: #ffffff;
+}

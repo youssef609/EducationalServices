@@ -1,0 +1,74 @@
+﻿@model List<DocumentModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-white mb-4">Ask a Question</h2>
+
+    <!-- Card for the Question Form -->
+    <div class="card p-4 shadow-lg" style="background: rgba(20, 20, 20, 0.9); border-radius: 15px;">
+        <form method="post" asp-action="AskQuestion">
+            <div class="mb-3">
+                <label for="document" class="form-label">Select a Document</label>
+                <select id="document" name="selectedDocument" class="form-select" required>
+                    @foreach (var document in Model)
+                    {
+                        <option value="@document.FileName">@document.FileName</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="question" class="form-label">Enter Your Question</label>
+                <input type="text" id="question" name="question" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="groundTruth" class="form-label">Enter Ground Truth (Optional)</label>
+                <input type="text" id="groundTruth" name="groundTruth" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Choose a Model</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" id="modelA" name="selectedModel" value="ModelA" checked>
+                    <label class="form-check-label" for="modelA">Model A </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" id="modelB" name="selectedModel" value="ModelB">
+                    <label class="form-check-label" for="modelB">Model B </label>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Get Answer</button>
+        </form>
+    </div>
+
+    <!-- Display Results -->
+    @if (ViewData["Answer"] != null)
+    {
+        <div class="card p-3 mt-4 shadow-lg" style="background: rgba(20, 20, 20, 0.9); border-radius: 15px;">
+            <h5 class="text-primary">Answer:</h5>
+            <p>@ViewData["Answer"]</p>
+        </div>
+    }
+
+    @if (ViewData["GroundTruth"] != null)
+    {
+        <div class="card p-3 mt-4 shadow-lg" style="background: rgba(20, 20, 20, 0.9); border-radius: 15px;">
+            <h5 class="text-warning">Ground Truth:</h5>
+            <p>@ViewData["GroundTruth"]</p>
+        </div>
+    }
+
+    @if (ViewData["Accuracy"] != null)
+    {
+        var accuracyMessage = ViewData["Accuracy"].ToString();
+        var alertClass = accuracyMessage.Contains("Incorrect") ? "text-danger" : "text-success";
+        <div class="card p-3 mt-4 shadow-lg" style="background: rgba(20, 20, 20, 0.9); border-radius: 15px;">
+            <h5 class="@alertClass">Accuracy:</h5>
+            <p>@accuracyMessage</p>
+        </div>
+    }
+</div>

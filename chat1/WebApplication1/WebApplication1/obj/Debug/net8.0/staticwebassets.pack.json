@@ -1,0 +1,965 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\.gitmodules",
+      "PackagePath": "staticwebassets\\tessdata\\.gitmodules"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\LICENSE",
+      "PackagePath": "staticwebassets\\tessdata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\README.md",
+      "PackagePath": "staticwebassets\\tessdata\\README.md"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\afr.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\afr.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\amh.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\amh.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ara.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ara.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\asm.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\asm.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\aze.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\aze.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\aze_cyrl.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\aze_cyrl.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\bel.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\bel.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ben.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ben.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\bod.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\bod.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\bos.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\bos.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\bre.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\bre.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\bul.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\bul.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\cat.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\cat.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ceb.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ceb.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ces.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ces.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\chi_sim.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\chi_sim.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\chi_sim_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\chi_sim_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\chi_tra.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\chi_tra.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\chi_tra_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\chi_tra_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\chr.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\chr.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\configs",
+      "PackagePath": "staticwebassets\\tessdata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\cos.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\cos.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\cym.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\cym.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\dan.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\dan.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\dan_frak.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\dan_frak.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\deu.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\deu.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\deu_frak.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\deu_frak.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\deu_latf.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\deu_latf.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\div.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\div.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\dzo.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\dzo.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ell.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ell.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\eng.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\eng.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\enm.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\enm.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\epo.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\epo.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\equ.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\equ.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\est.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\est.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\eus.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\eus.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fao.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fao.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fas.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fas.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fil.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fil.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fin.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fin.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fra.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fra.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\frm.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\frm.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\fry.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\fry.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\gla.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\gla.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\gle.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\gle.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\glg.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\glg.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\grc.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\grc.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\guj.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\guj.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\hat.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\hat.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\heb.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\heb.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\hin.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\hin.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\hrv.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\hrv.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\hun.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\hun.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\hye.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\hye.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\iku.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\iku.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ind.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ind.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\isl.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\isl.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ita.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ita.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ita_old.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ita_old.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\jav.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\jav.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\jpn.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\jpn.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\jpn_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\jpn_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kan.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kan.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kat.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kat.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kat_old.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kat_old.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kaz.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kaz.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\khm.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\khm.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kir.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kir.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kmr.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kmr.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kor.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kor.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\kor_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\kor_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\lao.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\lao.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\lat.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\lat.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\lav.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\lav.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\lit.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\lit.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ltz.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ltz.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mal.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mal.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mar.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mar.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mkd.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mkd.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mlt.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mlt.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mon.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mon.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mri.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mri.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\msa.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\msa.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\mya.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\mya.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\nep.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\nep.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\nld.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\nld.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\nor.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\nor.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\oci.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\oci.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ori.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ori.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\osd.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\osd.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\pan.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\pan.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\pdf.ttf",
+      "PackagePath": "staticwebassets\\tessdata\\pdf.ttf"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\pol.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\pol.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\por.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\por.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\pus.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\pus.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\que.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\que.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ron.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ron.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\rus.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\rus.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\san.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\san.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Arabic.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Arabic.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Armenian.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Armenian.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Bengali.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Bengali.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Canadian_Aboriginal.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Canadian_Aboriginal.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Cherokee.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Cherokee.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Cyrillic.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Cyrillic.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Devanagari.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Devanagari.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Ethiopic.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Ethiopic.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Fraktur.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Fraktur.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Georgian.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Georgian.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Greek.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Greek.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Gujarati.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Gujarati.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Gurmukhi.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Gurmukhi.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\HanS.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\HanS.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\HanS_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\HanS_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\HanT.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\HanT.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\HanT_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\HanT_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Hangul.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Hangul.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Hangul_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Hangul_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Hebrew.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Hebrew.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Japanese.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Japanese.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Japanese_vert.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Japanese_vert.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Kannada.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Kannada.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Khmer.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Khmer.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Lao.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Lao.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Latin.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Latin.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Malayalam.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Malayalam.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Myanmar.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Myanmar.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Oriya.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Oriya.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Sinhala.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Sinhala.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Syriac.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Syriac.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Tamil.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Tamil.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Telugu.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Telugu.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Thaana.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Thaana.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Thai.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Thai.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Tibetan.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Tibetan.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\script\\Vietnamese.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\script\\Vietnamese.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\sin.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\sin.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\slk.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\slk.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\slk_frak.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\slk_frak.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\slv.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\slv.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\snd.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\snd.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\spa.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\spa.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\spa_old.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\spa_old.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\sqi.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\sqi.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\srp.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\srp.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\srp_latn.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\srp_latn.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\sun.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\sun.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\swa.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\swa.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\swe.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\swe.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\syr.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\syr.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tam.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tam.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tat.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tat.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tel.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tel.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tgk.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tgk.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tgl.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tgl.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tha.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tha.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tir.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tir.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ton.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ton.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\tur.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\tur.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\uig.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\uig.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\ukr.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\ukr.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\urd.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\urd.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\uzb.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\uzb.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\uzb_cyrl.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\uzb_cyrl.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\vie.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\vie.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\yid.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\yid.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\tessdata\\yor.traineddata",
+      "PackagePath": "staticwebassets\\tessdata\\yor.traineddata"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\BYLAW.docx",
+      "PackagePath": "staticwebassets\\uploads\\BYLAW.docx"
+    },
+    {
+      "Id": "D:\\source-repos\\chat1\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\R.png",
+      "PackagePath": "staticwebassets\\uploads\\R.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

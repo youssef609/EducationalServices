@@ -1,0 +1,74 @@
+﻿@model List<WebApplication1.viewmodels.CompareModelsViewModel>
+@using WebApplication1.viewmodels
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Model Comparison</h2>
+    <canvas id="modelComparisonChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const data = {
+        labels: @Html.Raw(Json.Serialize(Model.Select(m => m.ModelName))),
+        datasets: [
+            {
+                label: 'Correct Answers',
+                data: @Html.Raw(Json.Serialize(Model.Select(m => m.CorrectAnswers))),
+                backgroundColor: 'rgba(75, 192, 192, 0.5)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+                yAxisID: 'y1',
+            },
+            {
+                label: 'Incorrect Answers',
+                data: @Html.Raw(Json.Serialize(Model.Select(m => m.IncorrectAnswers))),
+                backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1,
+                yAxisID: 'y1',
+            },
+            {
+                label: 'Accuracy Percentage',
+                data: @Html.Raw(Json.Serialize(Model.Select(m => m.AccuracyPercentage))),
+                type: 'line',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 2,
+                tension: 0.4,
+                yAxisID: 'y2',
+            }
+        ]
+    };
+
+    const config = {
+        type: 'bar',
+        data: data,
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { position: 'top' },
+            },
+            scales: {
+                y1: {
+                    beginAtZero: true,
+                    position: 'left',
+                    title: { display: true, text: 'Counts' }
+                },
+                y2: {
+                    beginAtZero: true,
+                    position: 'right',
+                    grid: { drawOnChartArea: false },
+                    title: { display: true, text: 'Accuracy Percentage (%)' }
+                }
+            }
+        }
+    };
+
+    const modelComparisonChart = new Chart(
+        document.getElementById('modelComparisonChart'),
+        config
+    );
+</script>

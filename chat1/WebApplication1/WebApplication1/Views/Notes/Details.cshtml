@@ -1,0 +1,18 @@
+﻿@model WebApplication1.Models.Note
+@{
+    ViewData["Title"] = "Note Details";
+}
+
+<h1>@Model.Title</h1>
+
+<p><strong>Content:</strong></p>
+<p>@Model.Content</p>
+
+@if (!string.IsNullOrEmpty(Model.FilePath))
+{
+    <a href="@Model.FilePath" target="_blank">View Attached File</a>
+}
+
+<p><strong>Tags:</strong> @Model.Tags</p>
+<p><strong>Created At:</strong> @Model.CreatedAt.ToShortDateString()</p>
+<a href="/Notes/Index" class="btn btn-secondary">Back to Notes</a>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication1.Models.Note>
+@{
+    ViewData["Title"] = "Notes Organizer";
+}
+
+<h1>Notes Organizer</h1>
+
+<form method="get" action="/Notes/Index">
+    <input type="text" name="searchQuery" value="@ViewBag.SearchQuery" placeholder="Search notes..." />
+    <button type="submit">Search</button>
+</form>
+
+<a href="/Notes/Create" class="btn btn-primary">Create New Note</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Tags</th>
+            <th>Date Created</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>@note.Tags</td>
+                <td>@note.CreatedAt.ToShortDateString()</td>
+                <td>
+                    <a href="/Notes/Details/@note.Id" class="btn btn-info">View</a>
+                    <a href="/Notes/Delete/@note.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

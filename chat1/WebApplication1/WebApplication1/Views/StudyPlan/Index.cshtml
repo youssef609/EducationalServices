@@ -1,0 +1,71 @@
+﻿@model WebApplication1.Models.StudyPlanResult
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Automated Study Plan Generator</h2>
+
+    <form method="post" asp-action="GeneratePlan">
+        <div class="mb-3">
+            <label for="topic" class="form-label">Enter Topic</label>
+            <input type="text" class="form-control" id="topic" name="topic" placeholder="e.g., Data Structures" required>
+        </div>
+        <div class="mb-3">
+            <label for="major" class="form-label">Select Major</label>
+            <select class="form-select" id="major" name="major" required>
+                <option value="Computer Science">Computer Science</option>
+                <option value="Information Technology">Information Technology</option>
+                <option value="Artificial Intelligence">Artificial Intelligence</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Generate Study Plan</button>
+    </form>
+
+    @if (Model != null)
+    {
+        <div class="mt-4">
+            <h3>Study Plan for @Model.Topic</h3>
+
+            <!-- Articles Section -->
+            <h4>Articles</h4>
+            @if (Model.Articles.Any())
+            {
+                <ul class="list-group">
+                    @foreach (var article in Model.Articles)
+                    {
+                        <li class="list-group-item">
+                            <a href="@article.Url" target="_blank" class="fw-bold">@article.Title</a>
+                            <p class="mb-0">@article.Description</p>
+                        </li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No articles found for this topic.</p>
+            }
+
+            <!-- Books Section -->
+            <h4 class="mt-4">Books</h4>
+            @if (Model.Books.Any())
+            {
+                <ul class="list-group">
+                    @foreach (var book in Model.Books)
+                    {
+                        <li class="list-group-item">
+                            <a href="@book.Url" target="_blank" class="fw-bold">@book.Title</a>
+                            <p class="mb-0">Author: @book.Author</p>
+                            <p class="mb-0">Year: @book.Year</p>
+                        </li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No books found for this topic.</p>
+            }
+        </div>
+    }
+</div>
